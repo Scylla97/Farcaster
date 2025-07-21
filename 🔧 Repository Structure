@@ -1,0 +1,10 @@
+duck-frame/
+├── app/
+│   ├── layout.tsx
+│   └── page.tsx
+├── public/
+│   └── duck.png
+├── package.json
+├── tsconfig.json
+├── next.config.js
+└── README.md
